@@ -111,6 +111,30 @@
 - Go to instance management, you'll observe that the scaling group has created a new and healthy instance
   ![image](https://github.com/user-attachments/assets/f982fcdb-8d29-425c-910f-a56a92b6bfe9)
 
+- Try and ping to test that the server is reachable
+  ![image](https://github.com/user-attachments/assets/339665f9-3a78-44a3-ab0b-f21da2502ec0)
+
+  - Try and access the open ip address with your browser
+    ![image](https://github.com/user-attachments/assets/51a694c5-9a0e-4628-91f5-c0a31c23b3ce)
+
+    - Even when you terminate it , it automatically create a new instance for you
+    - Select the instance , enter it and terminate
+      ![image](https://github.com/user-attachments/assets/72ab7725-53e8-4f19-b8f8-54d517bcceda)
+      - ![image](https://github.com/user-attachments/assets/1bb8fac1-e160-4ed0-b458-4c1817339af7)
+      - ![image](https://github.com/user-attachments/assets/f2ce0097-15aa-4ed2-a501-80a02cc920fe)
+     
+      - The instance has initiated termination
+        ![image](https://github.com/user-attachments/assets/6b614932-4669-48c5-b9bf-30bee00b268b)
+
+        - Automatically it has started creating a new instance
+          ![image](https://github.com/user-attachments/assets/5590c5fe-d5ed-4b17-8a11-d0f15efd75e1)
+
+
+
+
+
+
+
 
 
 
